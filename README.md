@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![hello there](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+![hello there]([https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhteTR5bzRzN3ZvbnRuNXFubWV2YW55MzdwN3VzeDYzM282eTYybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif))
 
 - 🔭 I'm deeply immersed in Kubernetes, observability, platforms, CI/CD, and leveraging Crossplane🍡 to elevate platform engineering capabilities and efficiency in infrastructure orchestration.
 - 🌱 Currently, I'm engrossed in the mastery of both nvim and lua, delving into their intricacies to unlock unparalleled productivity and customization in my workflow.
